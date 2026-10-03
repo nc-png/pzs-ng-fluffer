@@ -36,3 +36,6 @@ Makefile
 /zipscript/utils/headdatatest
 /zipscript/utils/racedatatest
 /zipscript/utils/sfvdatatest
+
+# Local scratch checkouts
+/external/
